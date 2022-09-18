@@ -1,0 +1,50 @@
+@mixin flexRowCenter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+@mixin flexColumnEvenly {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly
+}
+@mixin flexColumnCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mixinFooter{
+    @include flexRowCenter;
+}
+
+.textoIndex{
+    @include flexColumnEvenly;
+}
+h1{
+    padding: 10px;
+    @include flexRowCenter;
+}
+
+h4{
+    @include flexRowCenter;
+    color: white;
+}
+
+.textoAtencion{
+    @include flexColumnEvenly;
+}
+.textContacto{
+    @include flexRowCenter;
+}
+.formuContacto{
+    @include flexColumnCenter;
+}
+.imgNosotros{
+    @include flexRowCenter;
+}
+.mainNosotros{
+    @include flexColumnEvenly;
+}
+
+

@@ -1,0 +1,9 @@
+header{
+    background-color: $bgPrimario;
+    div{display: flex;
+        justify-content: flex-start;
+        a{
+            img{height: 190px; padding: 10px;}
+        }
+    }
+}

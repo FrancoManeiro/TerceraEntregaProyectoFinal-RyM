@@ -1,0 +1,33 @@
+$bgPrimario: lightblue;
+$bgSecun: blue;
+$colorPrimario: white;
+$colorSecun: black;
+
+.animNav{
+    color: $colorSecun;
+    &:hover{
+        color: $bgSecun;
+    }
+}
+
+h1{
+    color: $colorPrimario;
+    &:hover{
+        color: $colorSecun;
+    }
+}
+
+li{
+    color: $colorSecun;
+    &:hover{
+        color: $colorPrimario;
+    }
+}
+
+h3{
+    color: $colorSecun;
+    padding: 5px;
+    &:hover{
+        color: $colorPrimario;
+    }
+}

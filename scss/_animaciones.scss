@@ -1,0 +1,49 @@
+.imgIndex{
+    height: 600px;
+    &:hover{
+        height: 595px;
+    }
+}
+
+.imgSec{
+    height: 400px;
+    &:hover{
+        height: 395px;
+    }
+}
+
+.animNav{
+    color: $colorSecun;
+    &:hover{
+        color: $bgSecun;
+    }
+}
+
+h1{
+    color: $colorPrimario;
+    &:hover{
+        color: $colorSecun;
+    }
+}
+
+li{
+    color: $colorSecun;
+    &:hover{
+        color: $colorPrimario;
+    }
+}
+
+h3{
+    color: $colorSecun;
+    padding: 5px;
+    &:hover{
+        color: $colorPrimario;
+    }
+}
+
+.imgContacto{
+    height: 400px;
+    &:hover{
+        height: 395px;
+    }
+}

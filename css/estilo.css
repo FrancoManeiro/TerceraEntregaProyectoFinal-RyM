@@ -1,0 +1,185 @@
+.animNav {
+  color: black; }
+  .animNav:hover {
+    color: blue; }
+
+h1 {
+  color: white; }
+  h1:hover {
+    color: black; }
+
+li {
+  color: black; }
+  li:hover {
+    color: white; }
+
+h3 {
+  color: black;
+  padding: 5px; }
+  h3:hover {
+    color: white; }
+
+footer {
+  background-color: lightblue;
+  padding: 50px; }
+
+.imgFoo {
+  height: 30px; }
+
+h2 {
+  padding: 20px; }
+
+header {
+  background-color: lightblue; }
+  header div {
+    display: flex;
+    justify-content: flex-start; }
+    header div a img {
+      height: 190px;
+      padding: 10px; }
+
+.imgSec {
+  height: 400px;
+  width: 100%;
+  padding-top: 30px; }
+
+.imgIndex {
+  height: 600px;
+  width: 100%;
+  padding: 10px; }
+
+.imgAtencion {
+  height: 500px;
+  width: 100%;
+  padding: 10px; }
+
+.imgMarcas {
+  height: 50px; }
+
+.listaAtencion {
+  height: 30px; }
+
+.imgContacto {
+  height: 400px;
+  width: 100%;
+  padding: 10px; }
+
+.flechaRedes {
+  height: 50px; }
+
+.imgNosotros {
+  height: 500px;
+  padding-bottom: 20px; }
+
+.imgSecNosotros {
+  height: 400px;
+  width: 100%;
+  padding: 5px; }
+
+.imgGrandeNosotros {
+  height: 900px; }
+
+.mixinFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.textoIndex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly; }
+
+h1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+h4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: white; }
+
+.textoAtencion {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly; }
+
+.textContacto {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.formuContacto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.imgNosotros {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mainNosotros {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly; }
+
+.boton, .boton-aceptar {
+  width: 82px;
+  height: 40px;
+  font-size: 20px;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 20px; }
+
+.boton-aceptar {
+  padding: 5px;
+  width: 70px; }
+
+main {
+  padding-bottom: 30px; }
+
+.mainNosotros {
+  padding: 10px; }
+
+h4 {
+  padding: 10px; }
+
+.imgIndex {
+  height: 600px; }
+  .imgIndex:hover {
+    height: 595px; }
+
+.imgSec {
+  height: 400px; }
+  .imgSec:hover {
+    height: 395px; }
+
+.animNav {
+  color: black; }
+  .animNav:hover {
+    color: blue; }
+
+h1 {
+  color: white; }
+  h1:hover {
+    color: black; }
+
+li {
+  color: black; }
+  li:hover {
+    color: white; }
+
+h3 {
+  color: black;
+  padding: 5px; }
+  h3:hover {
+    color: white; }
+
+.imgContacto {
+  height: 400px; }
+  .imgContacto:hover {
+    height: 395px; }
